@@ -1,0 +1,13 @@
+git status # ver o que esta incluido
+
+git init  # inicializar
+
+git add "nome do arquivo" # incluir arquivo
+
+git add . # incluir todos os arquivos
+
+git commit -m "mensagem explicativa" # comentatio
+
+git branch -M main # Salvar commits
+
+git push -u origin main
